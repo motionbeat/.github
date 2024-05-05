@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br/>
 
-![image](link)
+![image](https://github.com/motionbeat/.github/blob/main/profile/gitbanner.png?raw=true)
 
 
 <!-- TABLE OF CONTENTS -->
