@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-21T09:09:28.891Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="GmaNhp05X-vGC8ahRZ7t" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-21T09:12:43.920Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="oCmQrm_Nemlc0-zewTRe" version="24.4.4" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="1472" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1402" dy="1077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -323,6 +323,18 @@
         </mxCell>
         <mxCell id="hLQwI2Z10zFJn12-wHvc-66" value="&lt;span style=&quot;font-size: 32px;&quot;&gt;가장 마지막 Enter 입력 시간&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 32px;&quot;&gt;+ 서버 offset 시간 전송&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2520" y="20" width="420" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hLQwI2Z10zFJn12-wHvc-68" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#F9292A;strokeWidth=3;fontStyle=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="2405" y="300" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hLQwI2Z10zFJn12-wHvc-69" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#F9292A;strokeWidth=3;fontStyle=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="2558.9300000000003" y="320" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hLQwI2Z10zFJn12-wHvc-70" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#F9292A;strokeWidth=3;fontStyle=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="2735" y="321" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hLQwI2Z10zFJn12-wHvc-71" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#F9292A;strokeWidth=3;fontStyle=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="2935" y="300" width="70" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
