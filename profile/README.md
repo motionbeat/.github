@@ -12,9 +12,7 @@
 
 **2. [서비스 소개](#Intro)**
 
-**3. [서비스 구조도](#Arch)**
-
-**4. [프로젝트 포스터](#Poster)**
+**3. [프로젝트 포스터](#Poster)**
 
 <br/>
 <br/>
@@ -46,12 +44,6 @@
 
 **[서비스 바로가기](https://motionbe.at)**
 
-<br/>
-
-<a name="Arch"></a>
-## 서비스 구조도
-
-![image](flow)
 <br/>
 
 <a name="Poster"></a>
