@@ -48,4 +48,4 @@
 
 <a name="Poster"></a>
 ## 프로젝트 포스터
-![image](https://github.com/motionbeat/.github/blob/main/profile/postersessionforgit.png?raw=true)
+![image](https://github.com/motionbeat/.github/blob/main/profile/updatedPosterForGit.png?raw=true)
