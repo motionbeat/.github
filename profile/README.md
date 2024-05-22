@@ -42,7 +42,7 @@
 
 **현장 발표 영상 : [바로가기](https://www.youtube.com/)**
 
-**[서비스 바로가기](https://motionbe.at)**
+**[서비스 바로가기](https://www.motionbe.at)**
 
 <br/>
 
