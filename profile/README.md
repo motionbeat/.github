@@ -30,8 +30,8 @@
 |-----|-----|
 |**Frontend**|<img src="https://img.shields.io/badge/JavaScript-F9D600?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/React-00C9FF?style=for-the-badge&logo=React&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=FFFFFF"/> 
 |**Backend**|<img src="https://img.shields.io/badge/JavaScript-F9D600?style=for-the-badge&logo=Javascript&logoColor=FFFFFF"/><img src="https://img.shields.io/badge/Express-E0234E?style=for-the-badge&logo=express&logoColor=FFFFFF"/>  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=FFFFFF"/>
-|**Database**|<img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/MongoDB-459069?style=for-the-badge&logo=mongodb&logoColor=FFFFFF"/>|
-|**Infra/Devops**|<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=Github Actions&logoColor=FFFFFF"/>|
+|**Database**| <img src="https://img.shields.io/badge/MongoDB-459069?style=for-the-badge&logo=mongodb&logoColor=FFFFFF"/>|
+|**Infra/Devops**|<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=Github Actions&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=FFFFFF"/> |
 
 <br/>
 <br/>
