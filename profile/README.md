@@ -38,7 +38,7 @@
 
 <a name="Intro"></a>
 ## 서비스 소개
-**서비스 소개 영상 : [바로가기](https://www.youtube.com/)**
+**서비스 소개 영상 : [바로가기](https://www.youtube.com/watch?v=CFUuitDOMus)**
 
 **현장 발표 영상 : [바로가기](https://www.youtube.com/)**
 
