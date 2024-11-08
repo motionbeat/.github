@@ -24,7 +24,6 @@
 프로젝트 기간 : 2024.04.18 ~ 2023.05.24 (5주)
 
 팀원 : [김현우](https://github.com/kugorang)(BE), [남재희](https://github.com/jaenam615)(BE), [문성준](https://github.com/camelisthebestconvention)(FE), [전인우](https://github.com/indwoo)(FE), [이상림](https://github.com/anythiw)(FE)  
-디자인 : [홍진표](https://www.instagram.com/znnqp/)(UI/UX)
 
 #### 기술 스택
 | 분류 | 기술 | 
